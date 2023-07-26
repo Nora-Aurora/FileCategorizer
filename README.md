@@ -1,3 +1,3 @@
 # FileCategorizer
 
-[download for exe](https://github.com/johnfrancis-maybe-i-am/FileCategorizer/blob/main/FileCategorizer.py)
+[download for exe](https://github.com/johnfrancis-maybe-i-am/FileCategorizer/releases/download/windows/FileCategorizer.exe)
