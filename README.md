@@ -1,3 +1,3 @@
 # FileCategorizer
 
-[download for exe](https://github.com/Schecher1/Minecraft-Server-Creator/blob/master/README.md)
+[download for exe](https://github.com/johnfrancis-maybe-i-am/FileCategorizer/blob/main/FileCategorizer.py)
